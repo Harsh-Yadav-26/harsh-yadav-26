@@ -1,20 +1,20 @@
-<h2 align="left">Hola!👋<br>My name is Harsh and I wish to dive someday 🌊</h2>
+<h2 align="center">Hola!👋<br>My name is Harsh and I wish to dive someday 🌊</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skylar6194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSH-YADAV-GLITCH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Tech Stack 🧑‍💻</h2>
+<h2 align="center">Tech Stack 🧑‍💻</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
@@ -62,11 +62,11 @@
 
 ###
 
-<h2 align="left">Socials 🍾</h2>
+<h2 align="center">Socials 🍾</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="http://www.linkedin.com/in/harsh10yadav" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -81,9 +81,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skylar6194/skylar6194/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skylar6194/skylar6194/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSH-YADAV-GLITCH/harsh-yadav-glitch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSH-YADAV-GLITCH/harsh-yadav-glitch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HARSH-YADAV-GLITCH/harsh-yadav-glitch/output/pacman-contribution-graph.svg">
 </picture>
 
 ###

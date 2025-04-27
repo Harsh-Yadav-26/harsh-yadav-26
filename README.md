@@ -1,4 +1,4 @@
-<h2 align="center">Hola!👋<br>My name is Harsh and I wish to dive someday 🌊</h2>
+b<h2 align="center">Hola!👋<br>My name is Harsh and I wish to dive someday 🌊</h2>
 
 ###
 
@@ -9,7 +9,80 @@
 </picture>
 
 ###
+
+<br>
+
+<h2 align="center">About Me 💬</h2>
+
 ###
+
+- 🌟 I'm passionate about coding, tech exploration, and public speaking.
+- 🚀 Always excited to learn new technologies and apply them in real-world projects.
+- 🎯 Focused on innovation, leadership, and creativity in everything I do.
+
+<br>
+
+<h2 align="center">Projects 📂</h2>
+
+###
+
+- 🔹 **Crypto Analyzer Application** (Sept 2022 – Nov 2022)  
+  Python-based app providing live cryptocurrency rates, real-time data fetching, and visualization.  
+  **Tech Stack:** Python, Data Visualization, MATLAB
+
+- 🔹 **Real-Time Chat Application** (Jan 2024 – Mar 2024)  
+  Instant messaging app supporting multimedia sharing, group chats, and end-to-end encryption.  
+  **Tech Stack:** React.js, Material UI, Node.js, Express.js, MongoDB, WebSockets, Firebase
+
+- 🔹 **CuSmartBudget AI** (July 2024 – Oct 2024)  
+  AI-powered budgeting tool for students offering real-time financial insights and smart saving habits.  
+  **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Google Gemini API, React Charts
+
+<br>
+
+<h2 align="center">Internship / Training 🛠️</h2>
+
+###
+
+- 🔸 **Metacrafters Remote Training** (June 2024 – Aug 2024)  
+  Hands-on experience in Blockchain Development — built and deployed smart contracts, integrated decentralized apps (dApps).
+
+<br>
+
+<h2 align="center">Certifications 📜</h2>
+
+###
+
+- Coursera: **React Native** - Meta (April 2025)
+- Coursera: **Developing Industrial Internet of Things** - University of Colorado Boulder (April 2025)
+- Coursera: **How to Write and Publish a Scientific Paper** - Ecole Polytechnique (March 2025)
+- Coursera: **Cybersecurity Attack and Defense Fundamentals** - EC-Council (October 2024)
+- Coursera: **NoSQL, Big Data, and Spark Foundations** - IBM (October 2024)
+- Swayam-NPTEL: **Multi-Core Computer Architecture** - IIT Guwahati (October 2023)
+
+<br>
+
+<h2 align="center">Hobbies / Personal Interests 🎯</h2>
+
+###
+
+- 🎙️ Public speaking and debating
+- 🎉 Organizing and volunteering at tech events
+- 🖥️ Exploring and working on new technologies
+- 📷 Photography and photo editing
+- ⚽ Sports enthusiast (football, running, swimming)
+
+<br>
+
+<h2 align="center">Volunteer Experience 🤝</h2>
+
+###
+
+- 🪖 **National Cadet Corps (NCC)** (Sept 2022 – Mar 2025)  
+  Completed Basic Leadership Camp (BLC), participated in Annual Training Camp (ATC); gained leadership, teamwork, first aid, weapon training, and resilience building.
+
+- 🗣️ **Young Orators Club (YOC)** - Joint Executive, Operations (Sept 2024 – Jan 2025)  
+  Managed operations, coordinated events, and promoted effective communication and student engagement at Chandigarh University.
 
 <br clear="both">
 
@@ -88,9 +161,9 @@
 </div>
 
 ###
-<div align="center">
-<img height = "170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdreWVzbHk4ZXJtOHJ2MTZuNGxxeDBobXQ1dWw1aDB4Z3R5eGttdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-</div>
 
+<div align="center">
+  <img height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdreWVzbHk4ZXJtOHJ2MTZuNGxxeDBobXQ1dWw1aDB4Z3R5eGttdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
+</div>
 
 ###

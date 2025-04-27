@@ -1,4 +1,4 @@
-b<h2 align="center">Hola!👋<br>My name is Harsh and I wish to dive someday 🌊</h2>
+<h2 align="center">Hola!👋<br>My name is Harsh and I wish to dive someday 🌊</h2>
 
 ###
 

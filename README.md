@@ -1,4 +1,6 @@
-<h2 align="center">👋🌟 H E L L O 🌟👋<br>I am Harsh and I wish to dive someday 🌊</h2>
+<h2 align="center">👋🌟 H E L L O 🌟👋<br>“Harsh here, exploring the vast ocean of technology with curiosity and code 🌊✨”
+
+</h2>
 
 ###
 
@@ -11,27 +13,37 @@
 ###
 
 ## About Me 🧑‍💻
-- 🔭 Currently diving into AI, Machine Learning, and Real-Time Applications.
-- 📚 Pursuing Computer Science & Engineering.
-- 🧠 Love problem-solving, public speaking, and exploring new technologies.
-- 🎯 Passionate about tech events, sports, photography, and leadership development.
+- 👨‍🎓 Final-year Computer Science Engineering student at Chandigarh University.
+- 💻 Passionate about Full-Stack Development – from building APIs to crafting intuitive UIs.
+- 🤖 Exploring AI, Machine Learning, and Real-Time Applications as side interests.
+- 🧠 Enjoy solving complex problems and learning modern development tools & frameworks.
+- 🎤 Active in tech events, public speaking, and team leadership roles.
+- 📸 Outside of tech, I love photography, sports, and creative storytelling through code.
 
 ## Projects 🚀
-- **Crypto Analyzer Application** (Sept 2022 – Nov 2022)  
-  Python-based app showing live cryptocurrency rates and visualizing real-time data.  
-  **Tech:** Python, Data Visualization, MATLAB.
+- **Crypto Analyzer Application** (September - November 2022)
+  - Built a Python-based tool to fetch and display real-time cryptocurrency rates using public APIs.
+  - Visualized historical and live data trends such as price fluctuations and volume through interactive plots.
+  - Focused on analytical features to support better decision-making for users interested in crypto markets.
+  - **Tech Stack: Python, REST APIs, Matplotlib, MATLAB.**
 
-- **Real-Time Chat Application** (Jan 2024 – Mar 2024)  
-  Instant messaging, multimedia sharing with real-time communication and end-to-end encryption.  
-  **Tech:** React.js, Material UI, Node.js, Express.js, MongoDB, WebSockets, Firebase.
+- **Real-Time Chat Application** (January - March 2024)
+  - Developed a full-stack chat application with features like instant messaging, multimedia sharing, and group chats.
+  - Implemented real-time communication using WebSocket and ensured secure login via Firebase authentication.
+  - Designed a clean, responsive UI with React and Material UI, emphasizing user experience and performance.
+  - **Tech Stack: React.js, Material UI, Node.js, Express.js, MongoDB, WebSocket, Firebase.**
 
-- **CuSmartBudget AI** (July 2024 – Oct 2024)  
-  AI-powered budgeting app for students with real-time expense tracking and smart recommendations.  
-  **Tech:** React.js, Node.js, Express.js, MongoDB, Firebase, Google Gemini API, React Charts.
+- **CuSmartBudget AI** (January – April 2025)
+  - Designed an AI-powered budgeting tool to help students manage finances, track expenses, and receive smart suggestions.
+  - Integrated Google Gemini API for providing personalized financial insights and budgeting recommendations.
+  - Built interactive dashboards to display real-time insights using React Charts and optimized data handling with MongoDB.
+  - **Tech Stack: React.js, Node.js, Express.js, MongoDB, Firebase, Google Gemini API, React Charts.**
 
 ## Internship / Training 📚
-- **Metacrafters Remote Training** (June 2024 – Aug 2024)  
-  Hands-on blockchain development: Smart contracts, dApps, and decentralized integrations.
+- **Metacrafters Remote Training** (June - August 2024)
+  - Completed JS PROOF and ETH PROOF beginner modules.
+  - Hands-on blockchain development: Developed and deployed smart contracts and integrated dApps.
+  - Gained practical experience with Ethereum, Polygon, and EVM-based tools.  
 
 ## Certifications 📜
 - **React Native** (Meta) - Coursera (April 2025)
@@ -49,11 +61,16 @@
 - Sports enthusiast (football, running, swimming)
 
 ## Volunteer Experience 🤝
-- **National Cadet Corps (PHHP&C Dte)** (Sept 2022 – March 2025)  
-  Completed Basic Leadership Camp (BLC) and Annual Training Camp (ATC), excelling in leadership, physical endurance, teamwork, and adventure activities.
+- **National Cadet Corps (PHHP&C DTE)** (September 2022- March 2025)
+  - NCC ‘B’ and ‘C’ certificate holder.
+  - Completed Basic Leadership Camp (BLC) and Annual Training Camp (ATC) under NCC, focusing on leadership, personality development, 
+teamwork, physical endurance, drill, first aid, and weapon training. 
 
-- **Young Orators Club - Joint Executive (Operations)** (Sept 2024 – Jan 2025)  
-  Led operations at Chandigarh University's premier oratory club, managing events and boosting student engagement.
+- **Young Orators Club - Joint Executive (Operations)** (September 2024- March 2025 )
+  - Appointed Joint Executive – Operations at Young Orators Club, Chandigarh University (2024–25).
+  - Contributed to leadership initiatives, event management, and student engagement through effective communication.
+
+
 
 ---
 
@@ -93,13 +110,13 @@
 ###
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/harsh10yadav" target="_blank">
+  <a href="http://www.linkedin.com/in/harshyadav26/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/.harsh_yadav./" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="mailto:harshkumar032004@gmail.com" target="_blank">
+  <a href="mailto:harsh26.cse@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>

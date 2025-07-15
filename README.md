@@ -73,7 +73,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSH-YADAV-GLITCH&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Yadav-26&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph" />
 </div>
 
 ###
